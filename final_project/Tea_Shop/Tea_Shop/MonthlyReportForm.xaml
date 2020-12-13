@@ -1,0 +1,28 @@
+﻿<Window x:Class="DemoWPF.MonthlyReportForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoWPF"
+        mc:Ignorable="d"
+        Title="MonthlyReportForm" Height="378.8" Width="379.2" Background="#04c582">
+    <Grid>
+
+        <Label Content="Monthly Report" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="93,0,0,0" FontSize="24" Foreground="White"/>
+        <Label Content="From Date:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.76,4.867" Margin="10,58,0,0" Foreground="White"/>
+       
+		<DatePicker HorizontalAlignment="Left" Margin="101,58,0,0" VerticalAlignment="Top" Width="120"/>
+       
+		<Label Content="To Date:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.76,4.867" Margin="10,103,0,0" Foreground="White"/>
+        
+		<DatePicker HorizontalAlignment="Left" Margin="101,103,0,0" VerticalAlignment="Top" Width="120"/>
+        
+		<Label Content="Total Revenue:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.76,4.867" Margin="10,148,0,0" Foreground="White"/>
+        
+		<TextBox x:Name="txt_TotalRevenue" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="101,151,0,0"  Background="#545d5a" Foreground="White"/>
+        <Button x:Name="btn_Search" Content="Search" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="265,151,0,0" Height="23" RenderTransformOrigin="0.933,0.696" Click="btn_Search_Click" Style="{StaticResource btnBlue}"/>
+        <DataGrid x:Name="DataGrid_1" HorizontalAlignment="Left" Height="114" VerticalAlignment="Top" Width="353" Margin="10,188,0,0" SelectionChanged="DataGrid_SelectionChanged"/>
+        <Button x:Name="btn_Exit" Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="146,317,0,0" Height="23" RenderTransformOrigin="0.933,0.696" Click="btn_Exit_Click" Style="{StaticResource btnBlue}"/>
+
+    </Grid>
+</Window>
