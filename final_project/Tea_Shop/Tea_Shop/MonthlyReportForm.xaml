@@ -20,7 +20,7 @@
 		<Label Content="Total Revenue:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.76,4.867" Margin="10,148,0,0" Foreground="White"/>
         
 		<TextBox x:Name="txt_TotalRevenue" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="101,151,0,0"  Background="#545d5a" Foreground="White"/>
-        <Button x:Name="btn_Search" Content="Search" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="265,151,0,0" Height="23" RenderTransformOrigin="0.933,0.696" Click="btn_Search_Click" Style="{StaticResource btnBlue}"/>
+        <Button x:Name="btn_Search" Content="Search" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="265,151,0,0" Height="32" RenderTransformOrigin="0.933,0.696" Click="btn_Search_Click" Style="{StaticResource btnBlue}"/>
         <DataGrid x:Name="DataGrid_1" HorizontalAlignment="Left" Height="114" VerticalAlignment="Top" Width="353" Margin="10,188,0,0" SelectionChanged="DataGrid_SelectionChanged"/>
         <Button x:Name="btn_Exit" Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="146,317,0,0" Height="23" RenderTransformOrigin="0.933,0.696" Click="btn_Exit_Click" Style="{StaticResource btnBlue}"/>
 

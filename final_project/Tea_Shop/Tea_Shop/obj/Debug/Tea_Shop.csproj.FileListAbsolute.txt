@@ -112,3 +112,55 @@ C:\Users\simon\Desktop\Semester 2\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\
 C:\Users\simon\Desktop\Semester 2\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.pdb
 C:\Users\simon\Desktop\Semester 2\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Employee.g.cs
 C:\Users\simon\Desktop\Semester 2\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Employee.baml
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\bin\Debug\Tea_Shop.exe.config
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\bin\Debug\Tea_Shop.exe
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\bin\Debug\Tea_Shop.pdb
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.csprojAssemblyReference.cache
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\EmployeeManagerForm.g.cs
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Login_Form.g.cs
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\MainWindow.g.cs
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\MonthlyReportForm.g.cs
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\ProductManagerForm.g.cs
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Employee.g.cs
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\App.g.cs
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop_MarkupCompile.cache
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop_MarkupCompile.lref
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\App.baml
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\EmployeeManagerForm.baml
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Login_Form.baml
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\MainWindow.baml
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\MonthlyReportForm.baml
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\ProductManagerForm.baml
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Employee.baml
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.g.resources
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.Properties.Resources.resources
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.csproj.GenerateResource.cache
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.csproj.CoreCompileInputs.cache
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.exe
+E:\GEORGIAN COLLEGE\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.pdb
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\bin\Debug\Tea_Shop.exe.config
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\bin\Debug\Tea_Shop.exe
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\bin\Debug\Tea_Shop.pdb
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.csprojAssemblyReference.cache
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\EmployeeManagerForm.g.cs
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Login_Form.g.cs
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\MainWindow.g.cs
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\MonthlyReportForm.g.cs
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\ProductManagerForm.g.cs
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Employee.g.cs
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\App.g.cs
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop_MarkupCompile.cache
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop_MarkupCompile.lref
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\App.baml
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\EmployeeManagerForm.baml
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Login_Form.baml
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\MainWindow.baml
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\MonthlyReportForm.baml
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\ProductManagerForm.baml
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Employee.baml
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.g.resources
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.Properties.Resources.resources
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.csproj.GenerateResource.cache
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.exe
+C:\Users\Allen\Desktop\GEG\comp1008\FINAL_PROJECT\final_project\Tea_Shop\Tea_Shop\obj\Debug\Tea_Shop.pdb
